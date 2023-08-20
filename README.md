@@ -29,7 +29,3 @@ Modules| Description
 **7** | *Test the network on the test data*
 
 Each section contains explanatory text, annotated code samples, and relevant images to provide an intuitive understanding
-
-
-
-- ***We hope this condensed practical course helps you get started with deep learning in PyTorch! Please reach out with any questions.***
