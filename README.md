@@ -1,6 +1,12 @@
 # pytorch-course
 
-![presentation](figs/poster.png)
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/hdspgroup/pytorch-course" target="_blank">
+      <img src="figs/poster.png" alt="Sentry" width="600" height="150">
+    </a>
+  </p>
+</p>
 
 Welcome to the *Pytorch course* created by [HDSP](http://hdspgroup.com/) Research Group! In this hands-on course, you will learn the basics of [Pytorch](https://pytorch.org/) a powerful framework for building and training neural networks.
 
