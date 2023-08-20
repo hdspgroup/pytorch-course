@@ -2,7 +2,7 @@
 
 ![presentation](figs/poster.png)
 
-Welcome to the *Pytorch course* created by [HDSP](http://hdspgroup.com/) Research Group! In this course, you will learn the basics of [Pytorch](https://pytorch.org/) a powerful framework for building and training neural networks by working through practical examples.
+Welcome to the *Pytorch course* created by [HDSP](http://hdspgroup.com/) Research Group! In this hands-on course, you will learn the basics of [Pytorch](https://pytorch.org/) a powerful framework for building and training neural networks.
 
 The entire course content is condensed into a *single notebook*:
 
@@ -28,3 +28,4 @@ Modules| Description
 **6** | *Train the network on the training data*
 **7** | *Test the network on the test data*
 
+Each sectione xplanatory text, annotated code samples, and relevant images to provide an intuitive understanding
