@@ -31,7 +31,7 @@ Modules| Description
 **3** | *Define a Convolutional Neural Network*
 **4** | *Define a Loss function*
 **5** | *Define a Optimizer*
-**6** | *Train the network on the training data*
-**7** | *Test the network on the test data*
+**6** | *Pytorch Training Loop*
+**7** | *Hyperparameter tunning*
 
 Each section contains explanatory text, annotated code samples, and relevant images to provide an intuitive understanding
